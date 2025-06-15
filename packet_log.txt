@@ -1,0 +1,230 @@
+2025-04-28 23:27:33,762 - 
+[+] Packet Captured (Total: 1)
+Ethernet Frame: de:48:7f:d2:98:f2 -> 98:3b:8f:ea:13:20 | Type: 0x8100
+IP Packet: 51.158.252.49 -> 192.168.215.127 | Protocol: 6
+TCP Segment: Src Port 51352 -> Dst Port 53066
+2025-04-28 23:27:33,767 - 
+[+] Packet Captured (Total: 2)
+Ethernet Frame: de:48:7f:d2:98:f2 -> 98:3b:8f:ea:13:20 | Type: 0x8100
+IP Packet: 51.158.252.49 -> 192.168.215.127 | Protocol: 6
+TCP Segment: Src Port 51352 -> Dst Port 53066
+2025-04-28 23:27:33,771 - 
+[+] Packet Captured (Total: 3)
+Ethernet Frame: de:48:7f:d2:98:f2 -> 98:3b:8f:ea:13:20 | Type: 0x8100
+IP Packet: 51.158.252.49 -> 192.168.215.127 | Protocol: 6
+TCP Segment: Src Port 51352 -> Dst Port 53067
+2025-04-28 23:27:33,777 - 
+[+] Packet Captured (Total: 4)
+Ethernet Frame: de:48:7f:d2:98:f2 -> 98:3b:8f:ea:13:20 | Type: 0x8100
+IP Packet: 51.158.252.49 -> 192.168.215.127 | Protocol: 6
+TCP Segment: Src Port 51352 -> Dst Port 53067
+2025-04-28 23:27:33,782 - 
+[+] Packet Captured (Total: 5)
+Ethernet Frame: 98:3b:8f:ea:13:20 -> de:48:7f:d2:98:f2 | Type: 0x800
+IP Packet: 192.168.215.127 -> 51.158.252.49 | Protocol: 6
+TCP Segment: Src Port 53066 -> Dst Port 51352
+2025-04-28 23:27:33,785 - 
+[+] Packet Captured (Total: 6)
+Ethernet Frame: 98:3b:8f:ea:13:20 -> de:48:7f:d2:98:f2 | Type: 0x800
+IP Packet: 192.168.215.127 -> 51.158.252.49 | Protocol: 6
+TCP Segment: Src Port 53067 -> Dst Port 51352
+2025-04-28 23:27:33,787 - 
+[+] Packet Captured (Total: 7)
+Ethernet Frame: 98:3b:8f:ea:13:20 -> de:48:7f:d2:98:f2 | Type: 0x800
+IP Packet: 192.168.215.127 -> 51.158.252.49 | Protocol: 6
+TCP Segment: Src Port 53066 -> Dst Port 51352
+2025-04-28 23:27:33,789 - 
+[+] Packet Captured (Total: 8)
+Ethernet Frame: 98:3b:8f:ea:13:20 -> de:48:7f:d2:98:f2 | Type: 0x800
+IP Packet: 192.168.215.127 -> 51.158.252.49 | Protocol: 6
+TCP Segment: Src Port 53067 -> Dst Port 51352
+2025-04-28 23:27:33,791 - 
+[+] Packet Captured (Total: 9)
+Ethernet Frame: 98:3b:8f:ea:13:20 -> de:48:7f:d2:98:f2 | Type: 0x800
+IP Packet: 192.168.215.127 -> 192.168.215.176 | Protocol: 17
+UDP Segment: Src Port 50070 -> Dst Port 53
+2025-04-28 23:27:33,794 - 
+[+] Packet Captured (Total: 10)
+Ethernet Frame: 98:3b:8f:ea:13:20 -> de:48:7f:d2:98:f2 | Type: 0x800
+IP Packet: 192.168.215.127 -> 192.168.215.176 | Protocol: 17
+UDP Segment: Src Port 49853 -> Dst Port 53
+2025-04-28 23:27:33,799 - 
+[+] Packet Captured (Total: 11)
+Ethernet Frame: de:48:7f:d2:98:f2 -> 98:3b:8f:ea:13:20 | Type: 0x800
+IP Packet: 192.168.215.176 -> 192.168.215.127 | Protocol: 17
+UDP Segment: Src Port 53 -> Dst Port 50070
+2025-04-28 23:27:33,802 - 
+[+] Packet Captured (Total: 12)
+Ethernet Frame: de:48:7f:d2:98:f2 -> 98:3b:8f:ea:13:20 | Type: 0x800
+IP Packet: 192.168.215.176 -> 192.168.215.127 | Protocol: 17
+UDP Segment: Src Port 53 -> Dst Port 49853
+2025-04-28 23:27:33,804 - 
+[+] Packet Captured (Total: 13)
+Ethernet Frame: 98:3b:8f:ea:13:20 -> de:48:7f:d2:98:f2 | Type: 0x800
+IP Packet: 192.168.215.127 -> 51.158.252.49 | Protocol: 6
+TCP Segment: Src Port 53070 -> Dst Port 51352
+2025-04-28 23:27:34,070 - 
+[+] Packet Captured (Total: 14)
+Ethernet Frame: de:48:7f:d2:98:f2 -> 98:3b:8f:ea:13:20 | Type: 0x8100
+IP Packet: 51.158.252.49 -> 192.168.215.127 | Protocol: 6
+TCP Segment: Src Port 51352 -> Dst Port 53066
+2025-04-28 23:27:34,075 - 
+[+] Packet Captured (Total: 15)
+Ethernet Frame: de:48:7f:d2:98:f2 -> 98:3b:8f:ea:13:20 | Type: 0x8100
+IP Packet: 51.158.252.49 -> 192.168.215.127 | Protocol: 6
+TCP Segment: Src Port 51352 -> Dst Port 53067
+2025-04-28 23:27:34,079 - 
+[+] Packet Captured (Total: 16)
+Ethernet Frame: de:48:7f:d2:98:f2 -> 98:3b:8f:ea:13:20 | Type: 0x8100
+IP Packet: 51.158.252.49 -> 192.168.215.127 | Protocol: 6
+TCP Segment: Src Port 51352 -> Dst Port 53070
+2025-04-28 23:27:34,081 - 
+[+] Packet Captured (Total: 17)
+Ethernet Frame: 98:3b:8f:ea:13:20 -> de:48:7f:d2:98:f2 | Type: 0x800
+IP Packet: 192.168.215.127 -> 51.158.252.49 | Protocol: 6
+TCP Segment: Src Port 53070 -> Dst Port 51352
+2025-04-28 23:27:34,084 - 
+[+] Packet Captured (Total: 18)
+Ethernet Frame: 98:3b:8f:ea:13:20 -> de:48:7f:d2:98:f2 | Type: 0x800
+IP Packet: 192.168.215.127 -> 51.158.252.49 | Protocol: 6
+TCP Segment: Src Port 53070 -> Dst Port 51352
+2025-04-28 23:27:34,086 - 
+[+] Packet Captured (Total: 19)
+Ethernet Frame: 98:3b:8f:ea:13:20 -> de:48:7f:d2:98:f2 | Type: 0x800
+IP Packet: 192.168.215.127 -> 51.158.252.49 | Protocol: 6
+TCP Segment: Src Port 53070 -> Dst Port 51352
+2025-04-28 23:27:34,488 - 
+[+] Packet Captured (Total: 20)
+Ethernet Frame: de:48:7f:d2:98:f2 -> 98:3b:8f:ea:13:20 | Type: 0x8100
+IP Packet: 51.158.252.49 -> 192.168.215.127 | Protocol: 6
+TCP Segment: Src Port 51352 -> Dst Port 53070
+2025-04-28 23:27:34,495 - 
+[+] Packet Captured (Total: 21)
+Ethernet Frame: de:48:7f:d2:98:f2 -> 98:3b:8f:ea:13:20 | Type: 0x8100
+IP Packet: 51.158.252.49 -> 192.168.215.127 | Protocol: 6
+TCP Segment: Src Port 51352 -> Dst Port 53070
+2025-04-28 23:27:34,500 - 
+[+] Packet Captured (Total: 22)
+Ethernet Frame: de:48:7f:d2:98:f2 -> 98:3b:8f:ea:13:20 | Type: 0x8100
+IP Packet: 51.158.252.49 -> 192.168.215.127 | Protocol: 6
+TCP Segment: Src Port 51352 -> Dst Port 53070
+2025-04-28 23:27:34,502 - 
+[+] Packet Captured (Total: 23)
+Ethernet Frame: 98:3b:8f:ea:13:20 -> de:48:7f:d2:98:f2 | Type: 0x800
+IP Packet: 192.168.215.127 -> 51.158.252.49 | Protocol: 6
+TCP Segment: Src Port 53070 -> Dst Port 51352
+2025-04-28 23:27:34,504 - 
+[+] Packet Captured (Total: 24)
+Ethernet Frame: 98:3b:8f:ea:13:20 -> de:48:7f:d2:98:f2 | Type: 0x800
+IP Packet: 192.168.215.127 -> 51.158.252.49 | Protocol: 6
+TCP Segment: Src Port 53070 -> Dst Port 51352
+2025-04-28 23:27:34,509 - 
+[+] Packet Captured (Total: 25)
+Ethernet Frame: 98:3b:8f:ea:13:20 -> de:48:7f:d2:98:f2 | Type: 0x800
+IP Packet: 192.168.215.127 -> 51.158.252.49 | Protocol: 6
+TCP Segment: Src Port 53070 -> Dst Port 51352
+2025-04-28 23:27:34,789 - 
+[+] Packet Captured (Total: 26)
+Ethernet Frame: de:48:7f:d2:98:f2 -> 98:3b:8f:ea:13:20 | Type: 0x8100
+IP Packet: 51.158.252.49 -> 192.168.215.127 | Protocol: 6
+TCP Segment: Src Port 51352 -> Dst Port 53070
+2025-04-28 23:27:34,795 - 
+[+] Packet Captured (Total: 27)
+Ethernet Frame: de:48:7f:d2:98:f2 -> 98:3b:8f:ea:13:20 | Type: 0x8100
+IP Packet: 51.158.252.49 -> 192.168.215.127 | Protocol: 6
+TCP Segment: Src Port 51352 -> Dst Port 53070
+2025-04-28 23:27:34,800 - 
+[+] Packet Captured (Total: 28)
+Ethernet Frame: de:48:7f:d2:98:f2 -> 98:3b:8f:ea:13:20 | Type: 0x8100
+IP Packet: 51.158.252.49 -> 192.168.215.127 | Protocol: 6
+TCP Segment: Src Port 51352 -> Dst Port 53070
+2025-04-28 23:27:34,802 - 
+[+] Packet Captured (Total: 29)
+Ethernet Frame: 98:3b:8f:ea:13:20 -> de:48:7f:d2:98:f2 | Type: 0x800
+IP Packet: 192.168.215.127 -> 51.158.252.49 | Protocol: 6
+TCP Segment: Src Port 53070 -> Dst Port 51352
+2025-04-28 23:27:34,804 - 
+[+] Packet Captured (Total: 30)
+Ethernet Frame: 98:3b:8f:ea:13:20 -> de:48:7f:d2:98:f2 | Type: 0x800
+IP Packet: 192.168.215.127 -> 51.158.252.49 | Protocol: 6
+TCP Segment: Src Port 53070 -> Dst Port 51352
+2025-04-28 23:27:35,204 - 
+[+] Packet Captured (Total: 31)
+Ethernet Frame: de:48:7f:d2:98:f2 -> 98:3b:8f:ea:13:20 | Type: 0x8100
+IP Packet: 51.158.252.49 -> 192.168.215.127 | Protocol: 6
+TCP Segment: Src Port 51352 -> Dst Port 53070
+2025-04-28 23:27:35,210 - 
+[+] Packet Captured (Total: 32)
+Ethernet Frame: de:48:7f:d2:98:f2 -> 98:3b:8f:ea:13:20 | Type: 0x8100
+IP Packet: 51.158.252.49 -> 192.168.215.127 | Protocol: 6
+TCP Segment: Src Port 51352 -> Dst Port 53070
+2025-04-28 23:27:35,216 - 
+[+] Packet Captured (Total: 33)
+Ethernet Frame: 98:3b:8f:ea:13:20 -> de:48:7f:d2:98:f2 | Type: 0x800
+IP Packet: 192.168.215.127 -> 51.158.252.49 | Protocol: 6
+TCP Segment: Src Port 53070 -> Dst Port 51352
+2025-04-28 23:27:39,085 - 
+[+] Packet Captured (Total: 34)
+Ethernet Frame: de:48:7f:d2:98:f2 -> 98:3b:8f:ea:13:20 | Type: 0x806
+ARP Request: 192.168.215.176 is asking about 192.168.215.127
+Non-IP Packet
+2025-04-28 23:27:39,088 - 
+[+] Packet Captured (Total: 35)
+Ethernet Frame: 98:3b:8f:ea:13:20 -> de:48:7f:d2:98:f2 | Type: 0x806
+ARP Reply: 98:3b:8f:ea:13:20 has IP 192.168.215.127
+Non-IP Packet
+2025-04-28 23:27:39,171 - 
+[+] Packet Captured (Total: 36)
+Ethernet Frame: de:48:7f:d2:98:f2 -> 98:3b:8f:ea:13:20 | Type: 0x8100
+IP Packet: 51.158.252.49 -> 192.168.215.127 | Protocol: 6
+TCP Segment: Src Port 51352 -> Dst Port 53069
+2025-04-28 23:27:39,219 - 
+[+] Packet Captured (Total: 37)
+Ethernet Frame: 98:3b:8f:ea:13:20 -> de:48:7f:d2:98:f2 | Type: 0x800
+IP Packet: 192.168.215.127 -> 51.158.252.49 | Protocol: 6
+TCP Segment: Src Port 53069 -> Dst Port 51352
+2025-04-28 23:27:39,834 - 
+[+] Packet Captured (Total: 38)
+Ethernet Frame: de:48:7f:d2:98:f2 -> 98:3b:8f:ea:13:20 | Type: 0x8100
+IP Packet: 51.158.252.49 -> 192.168.215.127 | Protocol: 6
+TCP Segment: Src Port 51352 -> Dst Port 52999
+2025-04-28 23:27:39,838 - 
+[+] Packet Captured (Total: 39)
+Ethernet Frame: 98:3b:8f:ea:13:20 -> de:48:7f:d2:98:f2 | Type: 0x800
+IP Packet: 192.168.215.127 -> 51.158.252.49 | Protocol: 6
+TCP Segment: Src Port 52999 -> Dst Port 51352
+2025-04-28 23:27:39,849 - 
+[+] Packet Captured (Total: 40)
+Ethernet Frame: 98:3b:8f:ea:13:20 -> de:48:7f:d2:98:f2 | Type: 0x800
+IP Packet: 192.168.215.127 -> 51.158.252.49 | Protocol: 6
+TCP Segment: Src Port 52999 -> Dst Port 51352
+2025-04-28 23:27:39,854 - 
+[+] Packet Captured (Total: 41)
+Ethernet Frame: 98:3b:8f:ea:13:20 -> de:48:7f:d2:98:f2 | Type: 0x800
+IP Packet: 192.168.215.127 -> 51.158.252.49 | Protocol: 6
+TCP Segment: Src Port 52999 -> Dst Port 51352
+2025-04-28 23:27:40,008 - 
+[+] Packet Captured (Total: 42)
+Ethernet Frame: de:48:7f:d2:98:f2 -> 98:3b:8f:ea:13:20 | Type: 0x8100
+IP Packet: 51.158.252.49 -> 192.168.215.127 | Protocol: 6
+TCP Segment: Src Port 51352 -> Dst Port 53069
+2025-04-28 23:27:40,014 - 
+[+] Packet Captured (Total: 43)
+Ethernet Frame: de:48:7f:d2:98:f2 -> 98:3b:8f:ea:13:20 | Type: 0x8100
+IP Packet: 51.158.252.49 -> 192.168.215.127 | Protocol: 6
+TCP Segment: Src Port 51352 -> Dst Port 52999
+2025-04-28 23:27:40,028 - 
+[+] Packet Captured (Total: 44)
+Ethernet Frame: de:48:7f:d2:98:f2 -> 98:3b:8f:ea:13:20 | Type: 0x8100
+IP Packet: 51.158.252.49 -> 192.168.215.127 | Protocol: 6
+TCP Segment: Src Port 51352 -> Dst Port 52999
+2025-04-28 23:27:40,050 - 
+[+] Packet Captured (Total: 45)
+Ethernet Frame: 98:3b:8f:ea:13:20 -> de:48:7f:d2:98:f2 | Type: 0x800
+IP Packet: 192.168.215.127 -> 51.158.252.49 | Protocol: 6
+TCP Segment: Src Port 53069 -> Dst Port 51352
+2025-04-28 23:27:40,080 - 
+[+] Packet Captured (Total: 46)
+Ethernet Frame: 98:3b:8f:ea:13:20 -> de:48:7f:d2:98:f2 | Type: 0x800
+IP Packet: 192.168.215.127 -> 51.158.252.49 | Protocol: 6
+TCP Segment: Src Port 52999 -> Dst Port 51352

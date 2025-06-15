@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Password Strength Checker",
+    "version": "1.0",
+    "description": "Checks the strength of your password.",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": []
+  }
+  
